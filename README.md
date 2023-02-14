@@ -1,7 +1,5 @@
 # Details
 
-Create a new Python ﬁle in this folder called details.py
-
 Use an input command to get the following information f rom the user.
 ○
 Name
