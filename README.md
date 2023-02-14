@@ -1,4 +1,4 @@
-# details
+# Details
 
 Create a new Python ﬁle in this folder called details.py
 
